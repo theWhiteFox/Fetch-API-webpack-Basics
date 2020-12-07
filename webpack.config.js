@@ -3,6 +3,7 @@ var BrowserSyncPlugin = require('browser-sync-webpack-plugin')
 
 module.exports = {
     entry: [
+        "@babel/polyfill",
         './src/js/app.js',
         './src/sass/app.scss'
     ],
