@@ -1,4 +1,4 @@
-# JavaScript Fetch API Basics
+# JavaScript Fetch API webpack Basics
 
 ## Tut
 https://www.javascripttutorial.net/javascript-fetch-api/
