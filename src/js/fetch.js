@@ -1,5 +1,5 @@
 async function fetchText() {
-    let response = await fetch('./readme.txt');
+    let response = await fetch('../../readme.txt');
     let data = await response.text();
     console.log('fetchText: ' + data)
 }
