@@ -1,0 +1,18 @@
+[
+    {
+    "username": "john",
+    "firstname": "John",
+    "lastname": "Tran",
+    "gender": "Male",
+    "profileURL": "img/le.png",
+    "email": "john.tran@tiptoenails.com"
+    },
+    {
+    "username": "john",
+    "firstname": "John",
+    "lastname": "Tran",
+    "gender": "Male",
+    "profileURL": "img/le.png",
+    "email": "john.tran@tiptoenails.com"
+    }
+]
