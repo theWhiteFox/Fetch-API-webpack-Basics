@@ -1,5 +1,5 @@
 const path = require('path');
-var BrowserSyncPlugin = require('browser-sync-webpack-plugin')
+const BrowserSyncPlugin = require('browser-sync-webpack-plugin')
 
 module.exports = {
     entry: [
