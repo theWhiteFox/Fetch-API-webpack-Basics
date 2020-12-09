@@ -1,11 +1,11 @@
 [
     {
-    "username": "john",
-    "firstname": "John",
-    "lastname": "Tran",
+    "username": "theWhiteFox",
+    "firstname": "Stephen",
+    "lastname": "O'Connor",
     "gender": "Male",
-    "profileURL": "img/le.png",
-    "email": "john.tran@tiptoenails.com"
+    "profileURL": "img/pro.png",
+    "email": "ste@thewhitefox.ninja"
     },
     {
     "username": "john",
