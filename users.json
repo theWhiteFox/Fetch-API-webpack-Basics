@@ -4,7 +4,7 @@
     "firstname": "Stephen",
     "lastname": "O'Connor",
     "gender": "Male",
-    "profileURL": "./dist/img/male.png",
+    "profileURL": "./img/male.png",
     "email": "ste@thewhitefox.ninja"
     },
     {
@@ -12,7 +12,7 @@
     "firstname": "Jane",
     "lastname": "Tran",
     "gender": "Female",
-    "profileURL": "./dist/img/female.png",
+    "profileURL": "./img/female.png",
     "email": "jane.tran@tiptoenails.com"
     }
 ]
